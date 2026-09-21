@@ -47,8 +47,8 @@ LexisNexis IDVerse Nodes have been tested with supported PingAM / ForgeRock vers
 
 ## Quick Start Guide
 In order to get started with the LexisNexis IDVerse Nodes, we have prepared a Quick Start Guides:
-- Click [here](./docs/LNRS-IDVerse-Nodes-Getting-Started-Guide-Cloud.pdf) to download a copy of the quick start guide for PingOne AIC / ForgeRock.
-- Click [here](./docs/LNRS-IDVerse-Nodes-Getting-Started-Guide-OpenAM.pdf) to download a copy of the quick start guide for PingAM / ForgeRock.
+- Click [here](./docs/LNRS-IDVerse-Nodes-Getting-Started-Guide-PingAIC.pdf) to download a copy of the quick start guide for PingOne AIC / ForgeRock.
+- Click [here](./docs/LNRS-IDVerse-Nodes-Getting-Started-Guide-PingAM.pdf) to download a copy of the quick start guide for PingAM / ForgeRock.
 
 ## Release Notes
 To get the latest version of the LexisNexis IDVerse Nodes release notes, click [here](./docs/LNRS-IDVerse-Nodes-Release-Notes.pdf) 
